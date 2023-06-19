@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #0e0d0d;
+    text-align: center;
+}
+
+.curso {
+    background-color: #dd7373;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgb(0, 0, 0);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.curso h2 {
+    color: #0e0d0d;
+    margin-top: 0;
+}
+
+.curso p {
+    color: #111010;
+}
+
+.curso a {
+    display: block;
+    text-align: right;
+    margin-top: 10px;
+    color: #333;
+    text-decoration: none;
+}
+
+.curso a:hover {
+    text-decoration: underline;
+}
